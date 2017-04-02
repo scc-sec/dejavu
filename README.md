@@ -1,7 +1,7 @@
 # dejavu
 Hello. This project is based on our paper:
 
-Detecting Privileged Side-Channel Attacks in Shielded Execution with DEJA VU.
+Detecting Privileged Side-Channel Attacks in Shielded Execution with DEJA VU
 <br>
 Sanchuan Chen, Xiaokuan Zhang, Michael K. Reiter, Yinqian Zhang
 <br>
